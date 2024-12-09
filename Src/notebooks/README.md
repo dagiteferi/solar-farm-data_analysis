@@ -7,10 +7,11 @@ This directory contains Jupyter notebooks used for various exploratory and analy
 ## Folder Structure
 
 📁notebooks
-├── .ipynbs
+├──📁.ipynb_checkpoints
+├── .📁ipynbs
 ├── benin.ipynb
 ├── togo.ipynb
-├── seirraleone,ipynb
+├── seirraleone.ipynb
 ├── 📓**init**.ipynb
 ├── 📃**init**.py
 ├── 📰README.md
