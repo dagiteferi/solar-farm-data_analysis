@@ -2,3 +2,5 @@
 .data/
 .week-0/
 .vscode/
+.lib/
+.scripts/
